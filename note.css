@@ -1,0 +1,13 @@
+/* default value all thake sob somoy */
+@media (max-width: 600px) {
+  /* sokol device er jonno.   */
+}
+@media all and (max-width: 600px) {
+  /* sokol device er jonno  */
+}
+@media only screen and (max-width: 600px) {
+  /* sokol device er screen size er upor kaj korbe  */
+}
+@media not screen and (max-width: 600px) {
+  /* er vitorer css onno media query te kaj korbe but er vitor kaj korbe na  */
+}
